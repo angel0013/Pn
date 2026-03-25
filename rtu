@@ -1,5 +1,5 @@
-#EXTM3U
-#EXTINF:0,Telecarpincho Sports
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/argentina1.xml"
+#EXTINF:0  tvg-id="CRONICA TV.ar",Telecarpincho Sports
 #EXTGRP:FUTBOL ARG
 https://cotesma02.cdn.rcs.net.ar/mnp/tntsports/output.mpd
 #EXTINF:0,Telecarpincho Sports 2
